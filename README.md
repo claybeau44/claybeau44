@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**claybeau44/claybeau44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, My name is Joshua Davis
 
-Here are some ideas to get you started:
+About me an my goals!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Im a guy with an interest in Cyber Security and IT industries working to grow and obtain experience and knowledge. Currently in the hiring process for a job at a Core Scientific Data center according to the hiring team it will give me exposure to ustilizing Linux and Siem tools. Currently working to obatain the Google Cyber Security Certificate along with Comptia+ Network+ and more.
+
+## Objective
+[Provide Objective - Remove this afterwards]]
+
+I have a strong belief in Ethics and adhering to Law. Becoming a Cyber security analyst is my goal. I feel passionate about being a protector and ensuring privacy and security and making the right choices to get the job done to the best of my ability.
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
