@@ -9,7 +9,8 @@ Im a guy with an interest in Cyber Security and IT industries working to grow an
 [Provide Objective - Remove this afterwards]]
 
 I have a strong belief in Ethics and adhering to Law. Becoming a Cyber security analyst is my goal. I feel passionate about being a protector and ensuring privacy and security and making the right choices to get the job done to the best of my ability.
-
+FIRST SECURITY CONTROLS AUDIT
+https://docs.google.com/document/d/1EcHQQvgCWAEzW3o9dEcetEREPmffQ1TM99LT11Q27w4/edit?usp=sharing
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
