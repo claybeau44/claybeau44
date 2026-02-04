@@ -14,3 +14,11 @@ https://docs.google.com/document/d/1EcHQQvgCWAEzW3o9dEcetEREPmffQ1TM99LT11Q27w4/
 
 (Cyber Security Certificates)
 Play It Safe: Manage Security Risks [Coursera 9H6MZ936S0HD.pdf](https://github.com/user-attachments/files/25060231/Coursera.9H6MZ936S0HD.pdf)
+Course contents: CISSP'S Eight Security Domains
+                 Security Frameworks and Controls
+                 CIA Triad
+                 Nist Framework
+                 Security Design Principles
+                 Security Audits
+                 Security Tools (SIEM Dashboards)
+                 Playbooks
