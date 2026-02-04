@@ -14,5 +14,6 @@ https://docs.google.com/document/d/1EcHQQvgCWAEzW3o9dEcetEREPmffQ1TM99LT11Q27w4/
 ## Skills
 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+(Cyber Security Certificates)
+Play It Safe: Manage Security Risks 
+https://coursera.org/share/1222cb31a825f07b8720cf0b54432029
