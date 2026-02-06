@@ -16,9 +16,14 @@ https://docs.google.com/document/d/1EcHQQvgCWAEzW3o9dEcetEREPmffQ1TM99LT11Q27w4/
 Play It Safe: Manage Security Risks [Coursera 9H6MZ936S0HD.pdf](https://github.com/user-attachments/files/25060231/Coursera.9H6MZ936S0HD.pdf)
 Course contents: CISSP'S Eight Security Domains
                  Security Frameworks and Controls
-                 CIA Triad
+           CIA Triad
                  Nist Framework
                  Security Design Principles
                  Security Audits
-                 Security Tools (SIEM Dashboards)
-                 Playbooks
+                 SIEM Tools Dashboards Playbooks
+                 
+  [network certificate.pdf](https://github.com/user-attachments/files/25135734/network.certificate.pdf)
+  Security Protocols HTTPS SSL/TLS Encryption
+  Firewall Port Filtering Cloud Based Firewalls
+  Proxy Servers Common Network Attacks and response
+          
